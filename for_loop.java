@@ -24,5 +24,6 @@ public class for_loop
             }
             System.out.print("Factorial of : "+ factorial_number+" is : "+factorial);
         }
+        input.close();;
     }
 }
